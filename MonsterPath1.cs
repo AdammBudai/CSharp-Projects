@@ -1,4 +1,4 @@
-//Two beasts are in a labyrinth. The labyrinth is represented as a matrix of individual positions.
+//A beast is in a labyrinth. The labyrinth is represented as a matrix of individual positions.
 //At any moment, the beast is at one particular position and is turned in one of four possible directions (up, down, left and right).
 
 //In each round every beast makes one move. The possible moves are: TurnLeft, TurnRight, MakeStep (one step forward).
